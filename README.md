@@ -8,7 +8,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/48457700/116119400-c8d98000-a694-11eb-9d4b-fbbc1a96fc53.png)
 
-# Podcastr Web app
+# NextJs Podcastr Website
 This podcast web app was created with NextJs. It was created using the standard browser structures, and your operation is similar to other platforms! Thanks [Rocketseat](https://rocketseat.com.br/) for this incredible job!!! It's worth mentioning: This project contains static site generation.
 
 ## Technologies Used:
