@@ -31,14 +31,14 @@
 This project simulates a podcast web app. It was created with NextJS, it's using the standard browser structures, contains the redering pattern SSG (static site generation) and your behavior is similar to other famous platforms. Thank you [Rocketseat](https://rocketseat.com.br/) for this incredible challenge!!!
 
 ## **Prerequisites**
-To run this project you will need to have the following technologies installed in your local environment
+To run this project you will need to have the following technologies installed in your local environment:
 
 - [Git](https://git-scm.com/)
 - [NodeJS](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
 
 ## **Technologies**
-The technologies used on the project development are listed below
+The technologies used on the project development are listed below:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
@@ -47,22 +47,22 @@ The technologies used on the project development are listed below
 - [Scss](https://sass-lang.com/)
 
 ## **Getting started**
-After you have installed all the technologies in your local environment you will need to clone this project
+After you have installed all the technologies in your local environment you will need to clone this project:
 ```sh
 git clone https://github.com/programador404/next_podcastr
 ```
 
-Then you will need to enter on the folder with the project name and run the following command
+Then you will need to enter on the folder with the project name and run the following command:
 ```sh
 npm i
 ```
 
-After that you need to start the fake server
+After that you need to start the fake server:
 ```sh
 npm run server
 ```
 
-Now that you already ran all the others commands you can start the main application with the below command
+Now that you already ran all the others commands you can start the main application with the below command:
 ```sh
 npm run dev
 ```
