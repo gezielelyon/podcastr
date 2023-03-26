@@ -8,13 +8,16 @@
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/programador404/next_podcastr)
-![GitHub forks](https://img.shields.io/github/forks/programador404/next_podcastr)
-![GitHub starts](https://img.shields.io/github/stars/programador404/next_podcastr)
-![GitHub license](https://img.shields.io/github/license/programador404/next_podcastr)
-![React Podcastr](https://img.shields.io/badge/React-components-orange)
+![GitHub issues](https://img.shields.io/github/issues/gezielelyon/next_podcastr)
+![GitHub forks](https://img.shields.io/github/forks/gezielelyon/next_podcastr)
+![GitHub starts](https://img.shields.io/github/stars/gezielelyon/next_podcastr)
+![GitHub license](https://img.shields.io/github/license/gezielelyon/next_podcastr)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
+![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
+![CSS](https://img.shields.io/badge/CSS-Styles-pink)
+![React](https://img.shields.io/badge/React-Components-orange)
+![SCSS](https://img.shields.io/badge/SCSS-Styles-purple)
 
 </div>
 
@@ -38,7 +41,7 @@ To run this project you will need to have the following technologies installed i
 - [NPM](https://www.npmjs.com/)
 
 ## **Technologies**
-The technologies used on the project development are listed below
+The technologies used on the project development are listed below.
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
