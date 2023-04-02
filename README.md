@@ -52,7 +52,7 @@ The technologies used on the project development are listed below.
 ## **Getting started**
 After you have installed all the technologies in your local environment you will need to clone this project.
 ```sh
-git clone https://github.com/programador404/next_podcastr
+git clone git@github.com:gezielelyon/next_podcastr.git
 ```
 
 Then you will need to enter on the folder with the project name and run the following command.
