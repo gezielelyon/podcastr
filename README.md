@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **Next Podcastr**
+# **Podcastr**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/next_podcastr)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/next_podcastr)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/next_podcastr)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/next_podcastr)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/podcastr)](https://github.com/gezielelyon/podcastr/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/podcastr)](https://github.com/gezielelyon/podcastr/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/podcastr)](https://github.com/gezielelyon/podcastr/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/podcastr)](https://github.com/gezielelyon/podcastr)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
